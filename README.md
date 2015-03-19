@@ -1,6 +1,5 @@
 # Mind mapping
-Mindmap
 
 TODO : 
 
-?
+0- Mindmap git v1
